@@ -12,3 +12,10 @@ UX/UI Audit of **usds.gov** website
 
 Carousel vs cards:
 [18F example](https://18f.gsa.gov/)
+
+### Stack Analysis
+- Hosted in GitHub Pages
+- Static website through Jeckyll
+- Requires dependencies: Ruby, RubyGems, npm, nodeJS, GCC and Make
+- Requires Jeckyll plugins
+- Pages written in markdown + templates
