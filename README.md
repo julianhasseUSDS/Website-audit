@@ -1,5 +1,7 @@
-## website-audit
-UX/UI Audit of **usds.gov** website
+# Website-audit
+## Author: Julian Hasse
+## UX/UI Audit of **usds.gov** website
+## USDS
 
 - Core web vitals ✅
 - Accessibility (desktop/mobile) ✅
